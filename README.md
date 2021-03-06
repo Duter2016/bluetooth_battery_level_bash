@@ -95,7 +95,7 @@ Terminal=true
 Comment=蓝牙设备电池电量显示
 Icon=/home/username/opt/bluetooth_battery/bluetoothBattery.jpeg
 ```
-把BluetoothBattery.desktop复制到`~/.local/share/applications`目录下，就可以在开始菜单启动了！
+把本项目下载到`~/opt/bluetooth_battery`目录，修改下上述代码中的目录路径为你的路径，然后，把BluetoothBattery.desktop复制到`~/.local/share/applications`目录下，就可以在开始菜单启动了！
 
 
 
