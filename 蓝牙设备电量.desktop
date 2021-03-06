@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Encoding=UTF-8
+Name=蓝牙设备电量
+Exec=sh /home/username/opt/bluetooth_battery/bluetoothBattery.sh 
+Type=Application
+Terminal=true
+Comment=蓝牙设备电池电量显示
+Icon=/home/username/opt/bluetooth_battery/bluetoothBattery.jpeg
